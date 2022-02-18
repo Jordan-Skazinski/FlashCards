@@ -1,0 +1,102 @@
+{
+  "decks": [
+    {
+      "name": "test",
+      "description": "test",
+      "id": 3
+    },
+    {
+      "name": "test2",
+      "description": "",
+      "id": 4
+    },
+    {
+      "name": "new",
+      "description": "new",
+      "id": 5
+    }
+  ],
+  "cards": [
+    {
+      "id": 7,
+      "front": "aczxc",
+      "back": "bzxczx"
+    },
+    {
+      "id": 8,
+      "front": "aalkjl",
+      "back": "bbjkl"
+    },
+    {
+      "id": 9,
+      "front": "aaajksaslASaaakl;",
+      "back": "bbbjklasaaaaaaaaaaaaaa"
+    },
+    {
+      "front": "5",
+      "back": "6",
+      "deckId": 4,
+      "id": 37
+    },
+    {
+      "front": "7",
+      "back": "8",
+      "deckId": 4,
+      "id": 38
+    },
+    {
+      "front": "8",
+      "back": "9",
+      "deckId": 4,
+      "id": 39
+    },
+    {
+      "id": 40,
+      "front": "a edit",
+      "back": "aa edit",
+      "deckId": 5
+    },
+    {
+      "id": 41,
+      "front": "b edit",
+      "back": "bb edit",
+      "deckId": 5
+    },
+    {
+      "front": "c",
+      "back": "cc",
+      "deckId": 5,
+      "id": 42
+    },
+    {
+      "id": 47,
+      "front": "asdfsdfgrrgdfgdfgdfgs",
+      "back": "sdfasdfgdfgdfgdfggdfs",
+      "deckId": 3
+    },
+    {
+      "id": 48,
+      "front": "sdafsdfg",
+      "back": "asdfsdfg",
+      "deckId": 3
+    },
+    {
+      "front": "asdf",
+      "back": "sdfa",
+      "deckId": 3,
+      "id": 49
+    },
+    {
+      "front": "sgd",
+      "back": "sdg",
+      "deckId": 3,
+      "id": 50
+    },
+    {
+      "front": "sgd",
+      "back": "sg",
+      "deckId": 3,
+      "id": 51
+    }
+  ]
+}
