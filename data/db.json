@@ -82,7 +82,7 @@
     },
     {
       "front": "how should an external javascript be referenced?",
-      "back": "<script type=text/javascrip src="xxx.js></script>. name the file with a .js extension.",
+      "back": "<script type=text/javascrip src=xxx.js></script>. name the file with a .js extension.",
       "deckId": 3,
       "id": 49
     },
