@@ -1,13 +1,13 @@
 {
   "decks": [
     {
-      "name": "test",
-      "description": "test",
+      "name": "Java Script",
+      "description": "Stuff on JS",
       "id": 3
     },
     {
-      "name": "test2",
-      "description": "",
+      "name": "Java Script Twow",
+      "description": "more js",
       "id": 4
     },
     {
@@ -19,34 +19,34 @@
   "cards": [
     {
       "id": 7,
-      "front": "aczxc",
-      "back": "bzxczx"
+      "front": "When do javascripts execute?",
+      "back": "immediately. as the page loads into the browser."
     },
     {
       "id": 8,
-      "front": "aalkjl",
-      "back": "bbjkl"
+      "front": "how do you insert Javascript into a web page?",
+      "back": "with the script tag:<script type="text/javascript">document.write("Hello World!");</script>"
     },
     {
       "id": 9,
-      "front": "aaajksaslASaaakl;",
-      "back": "bbbjklasaaaaaaaaaaaaaa"
+      "front": "Where do you put javascripts?;",
+      "back": "in the head or body sections."
     },
     {
-      "front": "5",
-      "back": "6",
+      "front": "What if you don't want the script to execute immediately upon loading a page?",
+      "back": "then put it inside a function.",
       "deckId": 4,
       "id": 37
     },
     {
-      "front": "7",
-      "back": "8",
+      "front": "where do you place functions and why?",
+      "back": "in the head section, this way they are all in one place, and they do not interfere with page content.",
       "deckId": 4,
       "id": 38
     },
     {
-      "front": "8",
-      "back": "9",
+      "front": "when should scripts be placed in the body?",
+      "back": "when you want your script to be placed inside a function, or if your script should write page conten.",
       "deckId": 4,
       "id": 39
     },
@@ -70,31 +70,31 @@
     },
     {
       "id": 47,
-      "front": "asdfsdfgrrgdfgdfgdfgs",
-      "back": "sdfasdfgdfgdfgdfggdfs",
+      "front": "when should you use an external javascript?",
+      "back": "when you want to run the same JavaScript on several pages, without having to write the same script on every page.",
       "deckId": 3
     },
     {
       "id": 48,
-      "front": "sdafsdfg",
-      "back": "asdfsdfg",
+      "front": "how should an external javascript be referenced?",
+      "back": "when you want to run the same JavaScript on several pages, without having to write the same script on every page.",
       "deckId": 3
     },
     {
-      "front": "asdf",
-      "back": "sdfa",
+      "front": "how should an external javascript be referenced?",
+      "back": "<script type="text/javascript" src="xxx.js"></script>. name the file with a .js extension.",
       "deckId": 3,
       "id": 49
     },
     {
-      "front": "sgd",
-      "back": "sdg",
+      "front": "can the external script contain the <script></script> tags?",
+      "back": "No.",
       "deckId": 3,
       "id": 50
     },
     {
-      "front": "sgd",
-      "back": "sg",
+      "front": "how do you insert Javascript into a web page?",
+      "back": "with the script tag:<script type="text/javascript">document.write("Hello World!");</script>",
       "deckId": 3,
       "id": 51
     }
