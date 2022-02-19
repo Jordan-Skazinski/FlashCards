@@ -25,7 +25,7 @@
     {
       "id": 8,
       "front": "how do you insert Javascript into a web page?",
-      "back": "with the script tag:<script type=text/javascript>document.write("Hello World!);</script>"
+      "back": "with the script tag:<script type=text/javascript>document.write(Hello World!);</script>"
     },
     {
       "id": 9,
@@ -82,7 +82,7 @@
     },
     {
       "front": "how should an external javascript be referenced?",
-      "back": "<script type="text/javascript" src="xxx.js"></script>. name the file with a .js extension.",
+      "back": "<script type=text/javascrip src="xxx.js></script>. name the file with a .js extension.",
       "deckId": 3,
       "id": 49
     },
@@ -93,8 +93,8 @@
       "id": 50
     },
     {
-      "front": "how do you insert Javascript into a web page?",
-      "back": "with the script tag:<script type="text/javascript">document.write("Hello World!");</script>",
+      "front": "how do you insert Javascript into a web page?"
+      "back": "with the script tag:<script type=text/javascript>document.write(ello World);</script>",
       "deckId": 3,
       "id": 51
     }
